@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on self-small projects<br>- I've finished learning Full-Stack Developing recently<br>- I'm currently l JS,React,Databases<br>- I would like to create Some Projects with Experienced developers to deep dive into engineering<br>- Fun fact : I like to play chess  [ 'chess.com 1800+ blitz']<br>
+- I'm currently working on self-small projects<br>- I've finished learning Full-Stack Developing recently<br>- I would like to create Some Projects with Experienced developers to deep dive into engineering<br>- Fun fact : I like to play chess  [ 'chess.com 1800+ blitz']<br>
 
 
 ## 🌐 Socials:
