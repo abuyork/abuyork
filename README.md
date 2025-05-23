@@ -1,6 +1,6 @@
 # 💫 About Me:
 - I'm Full-Stack Developer<br>
-- Here's my Portfolio , So you can rach out https://aalex.site <br>
+- Here's my Portfolio , So you can reach out https://aalex.site <br>
 - Fun fact : I like to play chess  [ 'chess.com 1800+ blitz']<br>
 
 
