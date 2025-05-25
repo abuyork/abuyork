@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Alex&fontAlign=50&reversal=false">
 
-- Full-Stack Developer<br>
-- Here's my Portfolio ,  https://aalex.site <br>
-- Fun fact : I like to play chess  [ 'chess.com 1800+ blitz']<br> 
+<h4> Full-Stack Developer <h4/>
+<h4> Here's my Portfolio ,  https://aalex.site <h4/>
+<h4> Fun fact : I like to play chess  [ 'chess.com 1800+ blitz'] <h4/>
 
  <h2> Languages and Tools </h2>
 
