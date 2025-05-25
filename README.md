@@ -1,4 +1,7 @@
-# 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Alex&fontAlign=50&reversal=false">
+
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
+
 - I'm Full-Stack Developer<br>
 - Here's my Portfolio , So you can reach out https://aalex.site <br>
 - Fun fact : I like to play chess  [ 'chess.com 1800+ blitz']<br>
