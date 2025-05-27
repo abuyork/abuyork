@@ -70,10 +70,12 @@
   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header" />
 </p>
 
-<h5 align="center">console.log('Forever Explorer');</h5>
+<h5 align="center">console.log('Hello World');</h5>
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=worldgoggo05&&abuyork&repo=worldgoggo05&&abuyork&countColor=%237B1E7A" alt="Visitor Badge" />
 </p>
+
+<!-- Credits to : Aleksey Kim & Anvar Ziyodov for inspiration of READ.ME Design -->
 
 
