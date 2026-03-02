@@ -2,7 +2,7 @@
 
 <h4> Full-Stack Developer <h4/>
 <h4> Here's my Portfolio ,  https://aalex.site <h4/>
-<h4> Fun fact : I like to play chess  [ 'chess.com 1800+ blitz'] <h4/>
+<h4> Fun fact : I like to play chess  [ 'chess.com 1900+ blitz'] <h4/>
 
  <h2> Languages and Tools </h2>
 
